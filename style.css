@@ -1,0 +1,440 @@
+.page
+{
+	max-height: inherit;
+	max-width: 100%;
+	background-color: white;
+	font-family: Helvetica;
+}
+
+.page1
+{
+	max-height: inherit;
+	max-width: 100%;
+	background-color: white;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+
+.header
+{
+	margin: 20px;
+	padding: 10px;
+	height: 70px;
+
+}
+
+.con1
+{
+	text-align: left;
+	font-size: 10pt;
+	display: inline-block;
+
+}
+
+.con2
+{
+	
+	font-size: 10pt;
+	display: inline;
+	margin-left: 50px;
+	float: right;
+	width: 140px;
+}
+
+.logo
+{
+
+float:left;
+margin-right: 10px;
+}
+
+.logo1
+{
+
+	display: inline;
+}
+
+
+.logo2
+{
+display: inline-block;
+float:left;
+}
+
+
+
+.text
+{
+	
+	width:350px;
+	text-align: left;
+}
+
+.text1
+{
+	float: right;
+	
+}
+
+.text2
+{
+	float: right;
+	width: 270px;
+	padding: 0;
+}
+
+
+.con2
+
+{
+
+	font-size: 10pt;
+	float: right;
+
+}
+
+.mid
+{
+	margin-left: 60px;
+	padding-bottom: 100px;
+}
+
+
+ .side1
+ {
+ 	padding:  50px 20px 15px 200px;
+ 	float: right;
+ 
+ }
+
+.side2
+{
+	
+	display: inline;
+	width: inherit;
+	clear: left;
+}
+.anchor
+{
+	color: red;
+
+}
+
+
+.middle 
+{
+	background-color:#E8E9EB;
+	height: inherit;
+	width: 100%;
+	padding-top: 20px;
+}
+
+
+.head1
+{
+
+	font-size: 33pt;
+}
+
+.head2 
+{
+	font-size: 58.5pt;
+
+}
+
+.button
+{
+	background-color: #DF4A38;
+	border: 1px solid #DF4A38;
+	opacity: 0.92;
+	width: 350px;
+	height: 50px;
+	border-radius: 6px;
+	color: white;
+}
+
+.button2, .button1
+{
+	background-color: #DF4A38;
+	border: 1px solid #DF4A38;
+	width: 250px;
+	height: 50px;
+	margin: 5px;
+	padding-top: 15px;
+	color: white;
+	font-size: 14px;
+	font-family:  Helvetica;
+}
+
+.button, .button1: hover
+{
+	background-color: #DF4A38;
+	opacity: 1;
+	color: black;
+}
+
+
+.time
+{
+
+	font-size: 10.5pt;
+	color: red;
+}
+
+.title-medium1
+{
+	font-size: 73px; 
+}
+
+
+.para
+{
+	font-size: 20px;
+}
+
+.label
+{
+	color: #565656;
+	font-size: 8pt;
+}
+
+
+.offerdiv
+{
+	height: inherit;
+	width: 100%;
+	padding: 30px;
+}
+
+.headoffer
+{
+	font-size: 33pt;
+}
+.tags
+{
+	font-size: 10.5pt;
+}
+
+
+.Works
+{
+	background-color:#E8E9EB;
+	padding: 50px 0 50px 0;
+	height: inherit;
+}
+
+.images
+{
+	text-align: center;
+}
+
+h5
+{
+	color: "LightGray";
+	font-size: 13.5pt;
+}
+
+
+.links
+{
+
+	display: inline-block;
+	font-size: 9pt;
+	list-style: : none;
+	color: black;
+}
+
+.buttontext
+
+{
+	text-align: center;
+	font-size: 22.5pt;
+}
+
+.end
+{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.footerlogo
+{
+	height:55px;
+	width: 210px;
+}
+
+.footerrow2
+{
+	font-size: 10.5pt;
+	margin: 50px 0 50px 0;
+}
+
+
+.images
+{
+	margin-bottom: 70px;
+
+}
+
+.imge
+{
+	box-shadow: 0 8px 8px 0 grey;
+}
+
+
+
+.list
+{
+	list-style: none;
+	padding: 10px 10px 0 10px;
+	text-align: center;
+	text-align: center;
+
+}
+
+
+
+.mi
+
+{
+	display: inline;
+	font-size: 9pt;
+	padding: 0 30px 10px 30px;
+	
+	}
+
+
+a:hover
+
+{	
+	text-decoration: none;
+	color: darkgray;
+
+}
+
+a
+{
+	color: gray;
+}
+
+
+
+.designno
+{
+
+
+   height: 30px;
+  width: 32px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+
+
+    background: #DF4A38;
+    border: 2px solid #DF4A38;
+    color: white;
+    text-align: center;
+    border-radius: 100%;    
+
+    line-height: 2em;
+    box-sizing: content-box;  
+    margin-left: 40px; 
+
+
+}
+
+.type
+{
+	
+	background-color: #E8E9EB;
+	width: 100%;
+	height: inherit;
+	padding: 20px;
+	text-align: center;
+}
+
+.form
+{
+	border: 1px solid grey;
+	width: 350px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: white;
+
+}
+
+.headform
+{
+	
+	font-size: 42px;
+	text-decoration: bold;
+}
+
+
+.nav
+{
+	text-decoration: none;
+	text-align: center;
+	
+}
+
+.mid1
+{
+	padding-left: 80px;
+	
+}
+
+.supcon
+{
+	border: 1px solid grey;
+	width: 500px;
+	margin: 10px;
+	padding: 20px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: white;
+}
+
+
+.contact
+{
+	border: 1px solid grey;
+	width: 400px;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.context
+{
+	text-align: left;
+
+}
+
+.refund
+{
+	border: 1px solid grey;
+	width: 1170px;
+	margin: 10px;
+	padding: 20px;
+	background-color: white;
+	border-radius: 5px;
+}
+
+
+.parawork
+{
+	margin-left: 40px;
+}
+
+
+
+.map
+{
+	text-align: center;
+	padding: 50px 20px 50px 20px;
+}
